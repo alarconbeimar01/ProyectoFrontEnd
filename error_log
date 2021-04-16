@@ -1,0 +1,606 @@
+[19-Jul-2020 13:43:34 America/Bogota] PHP Warning:  include_once(../Modelo/conectaDb.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/listarClientes.php on line 11
+[19-Jul-2020 13:43:34 America/Bogota] PHP Warning:  include_once(): Failed opening '../Modelo/conectaDb.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/listarClientes.php on line 11
+[19-Jul-2020 13:43:34 America/Bogota] PHP Notice:  Undefined variable: conexion in /home/carroc/public_html/yp/listarClientes.php on line 15
+[19-Jul-2020 13:43:34 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/listarClientes.php on line 15
+[19-Jul-2020 13:43:34 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/listarClientes.php on line 17
+[19-Jul-2020 14:35:57 America/Bogota] PHP Notice:  Undefined variable: estado1 in /home/carroc/public_html/yp/listarClientes.php on line 46
+[19-Jul-2020 14:35:59 America/Bogota] PHP Notice:  Undefined variable: estado1 in /home/carroc/public_html/yp/listarClientes.php on line 46
+[19-Jul-2020 14:36:00 America/Bogota] PHP Notice:  Undefined variable: estado1 in /home/carroc/public_html/yp/listarClientes.php on line 46
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: nombre in /home/carroc/public_html/yp/verCliente.php on line 11
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: doc in /home/carroc/public_html/yp/verCliente.php on line 12
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: tel in /home/carroc/public_html/yp/verCliente.php on line 13
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: mail in /home/carroc/public_html/yp/verCliente.php on line 14
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: plan in /home/carroc/public_html/yp/verCliente.php on line 15
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: ciudad in /home/carroc/public_html/yp/verCliente.php on line 16
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: direccion in /home/carroc/public_html/yp/verCliente.php on line 17
+[19-Jul-2020 15:28:28 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/verCliente.php on line 18
+[19-Jul-2020 15:34:29 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[19-Jul-2020 15:36:22 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[19-Jul-2020 15:36:26 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[19-Jul-2020 15:36:31 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[19-Jul-2020 15:38:08 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[19-Jul-2020 15:38:47 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[19-Jul-2020 16:22:40 America/Bogota] PHP Notice:  Undefined variable: ref in /home/carroc/public_html/yp/Modelo/conectaDb.php on line 14
+[19-Jul-2020 16:24:07 America/Bogota] PHP Notice:  Undefined variable: ref in /home/carroc/public_html/yp/Modelo/conectaDb.php on line 14
+[19-Jul-2020 17:19:53 America/Bogota] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/index.php on line 2
+[19-Jul-2020 17:19:53 America/Bogota] PHP Warning:  include(): Failed opening 'login.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/index.php on line 2
+[19-Jul-2020 17:19:53 America/Bogota] PHP Notice:  Undefined variable: error in /home/carroc/public_html/yp/index.php on line 39
+[19-Jul-2020 17:24:15 America/Bogota] PHP Warning:  include(Modelo/db.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/login.php on line 14
+[19-Jul-2020 17:24:15 America/Bogota] PHP Warning:  include(): Failed opening 'Modelo/db.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/login.php on line 14
+[19-Jul-2020 17:24:15 America/Bogota] PHP Warning:  include(Modelo/conexion.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/login.php on line 15
+[19-Jul-2020 17:24:15 America/Bogota] PHP Warning:  include(): Failed opening 'Modelo/conexion.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/login.php on line 15
+[19-Jul-2020 17:24:15 America/Bogota] PHP Notice:  Undefined variable: con in /home/carroc/public_html/yp/login.php on line 20
+[19-Jul-2020 17:24:15 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/login.php on line 20
+[19-Jul-2020 17:24:15 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/login.php on line 21
+[19-Jul-2020 17:41:00 America/Bogota] PHP Warning:  include(xx.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/profile.php on line 3
+[19-Jul-2020 17:41:00 America/Bogota] PHP Warning:  include(): Failed opening 'xx.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/profile.php on line 3
+[19-Jul-2020 17:41:42 America/Bogota] PHP Warning:  include(xx.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/profile.php on line 3
+[19-Jul-2020 17:41:42 America/Bogota] PHP Warning:  include(): Failed opening 'xx.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/profile.php on line 3
+[19-Jul-2020 17:48:30 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[19-Jul-2020 17:48:30 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 17:48:30 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 17:48:50 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[19-Jul-2020 17:48:50 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 17:48:50 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 17:49:00 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[19-Jul-2020 17:49:00 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 17:49:00 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 17:49:26 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 17:49:26 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 18:20:44 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:20:44 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 18:20:49 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:20:49 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 18:26:19 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:26:19 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:26:24 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:26:24 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:26:32 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:26:32 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:27:03 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:27:03 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:27:19 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:27:19 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:27:31 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[19-Jul-2020 18:27:31 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:27:31 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:27:32 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[19-Jul-2020 18:27:32 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:27:32 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:27:46 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:27:46 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:27:47 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:27:47 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:30:52 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:30:52 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:30:55 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:30:55 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:30:59 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:30:59 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:31:08 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:31:08 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:31:16 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:31:16 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:31:49 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:31:49 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:31:54 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:31:54 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:31:58 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:31:58 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:33:35 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 67
+[19-Jul-2020 18:33:35 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 71
+[19-Jul-2020 18:34:58 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:35:04 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:36:02 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:36:05 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:36:09 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:36:29 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:32 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:33 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:34 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:35 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:36 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:37 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:38 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:39 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:43 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:44 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:45 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:48 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:50 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:36:53 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:37:24 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:37:26 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:37:28 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:41:17 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:41:38 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:41:40 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:41:41 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:41:42 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:41:45 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:43:51 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:43:56 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:43:57 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:44:35 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:44:36 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:44:39 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:44:40 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:45:55 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:45:58 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:46:02 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:46:06 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:48:01 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 69
+[19-Jul-2020 18:48:01 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 73
+[19-Jul-2020 18:48:50 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 66
+[19-Jul-2020 18:49:28 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 66
+[19-Jul-2020 18:52:17 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 66
+[19-Jul-2020 18:52:24 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 66
+[19-Jul-2020 18:52:25 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 66
+[19-Jul-2020 18:52:34 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:52:34 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 66
+[19-Jul-2020 18:52:37 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 64
+[19-Jul-2020 18:52:37 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 66
+[19-Jul-2020 18:54:14 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:24 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:43 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:45 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:47 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:49 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:51 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:52 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:57:54 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:59:05 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:59:08 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:59:10 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:59:18 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 18:59:37 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 18:59:41 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 18:59:43 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 18:59:46 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:00:42 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:00:43 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:01:44 America/Bogota] PHP Fatal error:  Cannot use [] for reading in /home/carroc/public_html/yp/nuevoCliente.php on line 65
+[19-Jul-2020 19:04:09 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:04:12 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:05:39 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:05:42 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:06:24 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:06:27 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:06:59 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:07:01 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:07:02 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:07:03 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:07:04 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:07:06 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:07:39 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:23 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:25 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:27 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:28 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:29 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:30 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:43 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:08:44 America/Bogota] PHP Notice:  Undefined index: Mensaje in /home/carroc/public_html/yp/nuevoCliente.php on line 68
+[19-Jul-2020 19:12:54 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[19-Jul-2020 19:22:21 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[19-Jul-2020 22:50:03 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[20-Jul-2020 06:44:02 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[20-Jul-2020 07:42:58 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarClientes.php on line 33
+[20-Jul-2020 07:47:18 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[20-Jul-2020 07:50:01 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[20-Jul-2020 07:51:40 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verCliente.php on line 26
+[20-Jul-2020 07:54:44 America/Bogota] PHP Notice:  Undefined index: vida in /home/carroc/public_html/yp/verCliente.php on line 32
+[20-Jul-2020 08:33:49 America/Bogota] PHP Notice:  Undefined variable: estado in /home/carroc/public_html/yp/verCliente.php on line 76
+[20-Jul-2020 08:33:49 America/Bogota] PHP Notice:  Undefined variable: estado in /home/carroc/public_html/yp/verCliente.php on line 79
+[20-Jul-2020 09:31:07 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[20-Jul-2020 11:02:12 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[20-Jul-2020 12:35:56 America/Bogota] PHP Notice:  Undefined variable: refRol in /home/carroc/public_html/yp/listarUsuarios.php on line 67
+[20-Jul-2020 12:47:58 America/Bogota] PHP Notice:  Undefined variable: nombre in /home/carroc/public_html/yp/verUsuario.php on line 32
+[20-Jul-2020 12:47:58 America/Bogota] PHP Notice:  Undefined variable: plan in /home/carroc/public_html/yp/verUsuario.php on line 36
+[20-Jul-2020 12:47:58 America/Bogota] PHP Notice:  Undefined variable: ciudad in /home/carroc/public_html/yp/verUsuario.php on line 40
+[20-Jul-2020 12:47:58 America/Bogota] PHP Notice:  Undefined variable: direccion in /home/carroc/public_html/yp/verUsuario.php on line 44
+[20-Jul-2020 12:47:58 America/Bogota] PHP Notice:  Undefined variable: telefono in /home/carroc/public_html/yp/verUsuario.php on line 48
+[20-Jul-2020 12:47:58 America/Bogota] PHP Notice:  Undefined variable: priUsuario in /home/carroc/public_html/yp/verUsuario.php on line 55
+[20-Jul-2020 12:57:36 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 25
+[20-Jul-2020 12:57:36 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 26
+[20-Jul-2020 12:57:36 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 27
+[20-Jul-2020 12:57:36 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 12:57:36 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 29
+[20-Jul-2020 12:57:36 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 30
+[20-Jul-2020 12:57:42 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 25
+[20-Jul-2020 12:57:42 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 26
+[20-Jul-2020 12:57:42 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 27
+[20-Jul-2020 12:57:42 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 12:57:42 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 29
+[20-Jul-2020 12:57:42 America/Bogota] PHP Notice:  Undefined variable: filas in /home/carroc/public_html/yp/verUsuario.php on line 30
+[20-Jul-2020 12:58:09 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 25
+[20-Jul-2020 13:01:30 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:02:11 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:02:15 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:04:04 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 27
+[20-Jul-2020 13:05:24 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:06:25 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:06:28 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:06:33 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:07:38 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:07:41 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:08:13 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:09:03 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:09:06 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarUsuarios.php on line 36
+[20-Jul-2020 13:09:08 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarUsuarios.php on line 36
+[20-Jul-2020 13:09:11 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarUsuarios.php on line 36
+[20-Jul-2020 13:09:14 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarUsuarios.php on line 36
+[20-Jul-2020 13:09:39 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarUsuarios.php on line 36
+[20-Jul-2020 13:11:17 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:11:22 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 28
+[20-Jul-2020 13:12:10 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 29
+[20-Jul-2020 13:12:56 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/carroc/public_html/yp/verUsuario.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verUsuario.php on line 29
+[20-Jul-2020 13:16:06 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:16:06 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verUsuario.php on line 27
+[20-Jul-2020 13:16:09 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:16:09 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verUsuario.php on line 27
+[20-Jul-2020 13:18:28 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[20-Jul-2020 13:18:28 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verUsuario.php on line 27
+[20-Jul-2020 13:29:52 America/Bogota] PHP Notice:  Undefined variable: permisos in /home/carroc/public_html/yp/verUsuario.php on line 68
+[20-Jul-2020 13:52:54 America/Bogota] PHP Warning:  include(Modelo/conexion.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/login.php on line 15
+[20-Jul-2020 13:52:54 America/Bogota] PHP Warning:  include(): Failed opening 'Modelo/conexion.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/login.php on line 15
+[20-Jul-2020 13:52:54 America/Bogota] PHP Notice:  Undefined variable: con in /home/carroc/public_html/yp/login.php on line 20
+[20-Jul-2020 13:52:54 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/login.php on line 20
+[20-Jul-2020 13:52:54 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/login.php on line 21
+[20-Jul-2020 13:54:31 America/Bogota] PHP Notice:  Undefined variable: con in /home/carroc/public_html/yp/login.php on line 20
+[20-Jul-2020 13:54:31 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/login.php on line 20
+[20-Jul-2020 13:54:31 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/login.php on line 21
+[20-Jul-2020 14:58:50 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[20-Jul-2020 15:40:58 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/porInstalar.php on line 32
+[20-Jul-2020 15:49:10 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/porInstalar.php on line 32
+[20-Jul-2020 16:05:09 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[20-Jul-2020 16:05:18 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/porInstalar.php on line 32
+[20-Jul-2020 16:07:42 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/porInstalar.php on line 32
+[20-Jul-2020 16:25:30 America/Bogota] PHP Notice:  Undefined index: estado in /home/carroc/public_html/yp/porInstalar.php on line 35
+[20-Jul-2020 16:25:30 America/Bogota] PHP Notice:  Undefined index: estado in /home/carroc/public_html/yp/porInstalar.php on line 35
+[20-Jul-2020 16:25:30 America/Bogota] PHP Notice:  Undefined index: estado in /home/carroc/public_html/yp/porInstalar.php on line 35
+[20-Jul-2020 16:34:08 America/Bogota] PHP Notice:  Undefined variable: respuesta in /home/carroc/public_html/yp/porInstalar.php on line 26
+[20-Jul-2020 16:34:08 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/porInstalar.php on line 26
+[20-Jul-2020 16:34:26 America/Bogota] PHP Notice:  Undefined variable: respuesta in /home/carroc/public_html/yp/porInstalar.php on line 26
+[20-Jul-2020 16:34:26 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/porInstalar.php on line 26
+[20-Jul-2020 18:46:11 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 06:39:14 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 07:04:19 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 07:34:36 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 08:55:49 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 11:20:32 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 11:21:52 America/Bogota] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/generarCobrar.php on line 17
+[21-Jul-2020 11:25:16 America/Bogota] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/carroc/public_html/yp/generarCobrar.php on line 17
+[21-Jul-2020 11:25:18 America/Bogota] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/carroc/public_html/yp/generarCobrar.php on line 17
+[21-Jul-2020 12:51:41 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 13:43:45 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 14:30:38 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/recaudar.php on line 46
+[21-Jul-2020 15:15:06 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 15:19:41 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/recaudar.php on line 45
+[21-Jul-2020 15:19:58 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/recaudar.php on line 45
+[21-Jul-2020 15:20:54 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/recaudar.php on line 45
+[21-Jul-2020 15:21:04 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/recaudar.php on line 45
+[21-Jul-2020 15:21:55 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/recaudar.php on line 45
+[21-Jul-2020 16:35:43 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 16:35:45 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 18:13:49 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[21-Jul-2020 18:24:17 America/Bogota] PHP Warning:  include(../session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/imprimirRecaudo.php on line 2
+[21-Jul-2020 18:24:17 America/Bogota] PHP Warning:  include(): Failed opening '../session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/imprimirRecaudo.php on line 2
+[22-Jul-2020 07:55:53 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[22-Jul-2020 08:52:27 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarClientes.php on line 46
+[22-Jul-2020 08:59:35 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/listarClientes.php on line 56
+[22-Jul-2020 09:46:33 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verUsuario.php on line 15
+[22-Jul-2020 09:46:33 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verUsuario.php on line 26
+[22-Jul-2020 10:10:24 America/Bogota] PHP Notice:  Undefined index: idUsuario in /home/carroc/public_html/yp/verPlan.php on line 15
+[22-Jul-2020 10:10:24 America/Bogota] PHP Notice:  Undefined variable: VERPLAN in /home/carroc/public_html/yp/verPlan.php on line 22
+[22-Jul-2020 10:10:24 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verPlan.php on line 26
+[22-Jul-2020 10:10:24 America/Bogota] PHP Notice:  Undefined variable: priUsuario in /home/carroc/public_html/yp/verPlan.php on line 36
+[22-Jul-2020 10:11:29 America/Bogota] PHP Notice:  Undefined variable: VERPLAN in /home/carroc/public_html/yp/verPlan.php on line 22
+[22-Jul-2020 10:11:29 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verPlan.php on line 26
+[22-Jul-2020 10:11:29 America/Bogota] PHP Notice:  Undefined variable: priUsuario in /home/carroc/public_html/yp/verPlan.php on line 36
+[22-Jul-2020 10:15:17 America/Bogota] PHP Notice:  Undefined variable: VERPLAN in /home/carroc/public_html/yp/verPlan.php on line 22
+[22-Jul-2020 10:15:17 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verPlan.php on line 26
+[22-Jul-2020 10:15:17 America/Bogota] PHP Notice:  Undefined variable: priUsuario in /home/carroc/public_html/yp/verPlan.php on line 36
+[22-Jul-2020 10:15:30 America/Bogota] PHP Notice:  Undefined variable: VERPLAN in /home/carroc/public_html/yp/verPlan.php on line 22
+[22-Jul-2020 10:15:30 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/verPlan.php on line 26
+[22-Jul-2020 10:15:30 America/Bogota] PHP Notice:  Undefined variable: priUsuario in /home/carroc/public_html/yp/verPlan.php on line 36
+[22-Jul-2020 10:18:44 America/Bogota] PHP Notice:  Undefined index: ref in /home/carroc/public_html/yp/verPlan.php on line 28
+[22-Jul-2020 10:18:44 America/Bogota] PHP Notice:  Undefined variable: priUsuario in /home/carroc/public_html/yp/verPlan.php on line 36
+[22-Jul-2020 10:20:06 America/Bogota] PHP Notice:  Undefined variable: priUsuario in /home/carroc/public_html/yp/verPlan.php on line 36
+[22-Jul-2020 11:09:41 America/Bogota] PHP Notice:  Undefined variable: pri in /home/carroc/public_html/yp/entrada.php on line 12
+[22-Jul-2020 11:09:41 America/Bogota] PHP Notice:  Undefined variable: pri in /home/carroc/public_html/yp/entrada.php on line 12
+[22-Jul-2020 12:27:18 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[22-Jul-2020 12:27:18 America/Bogota] PHP Notice:  Undefined index: ini in /home/carroc/public_html/yp/reporteRecaudo.php on line 10
+[22-Jul-2020 12:27:18 America/Bogota] PHP Notice:  Undefined index: fin in /home/carroc/public_html/yp/reporteRecaudo.php on line 11
+[22-Jul-2020 12:27:18 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 12:27:41 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 74
+[22-Jul-2020 12:38:50 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 74
+[22-Jul-2020 12:38:58 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 74
+[22-Jul-2020 12:40:48 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 74
+[22-Jul-2020 12:43:38 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 76
+[22-Jul-2020 13:10:31 America/Bogota] PHP Notice:  Undefined index: total in /home/carroc/public_html/yp/reporteRecaudo.php on line 70
+[22-Jul-2020 13:12:19 America/Bogota] PHP Notice:  Undefined index: total in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:12:26 America/Bogota] PHP Notice:  Undefined index: total in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:13:28 America/Bogota] PHP Notice:  Undefined index: total in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:16:23 America/Bogota] PHP Notice:  Undefined index: suma in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:20:44 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:23:16 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:23:23 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:24:07 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:26:02 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 13:26:36 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 86
+[22-Jul-2020 13:27:25 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 87
+[22-Jul-2020 13:27:28 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 87
+[22-Jul-2020 13:27:41 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 87
+[22-Jul-2020 13:29:29 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 90
+[22-Jul-2020 13:31:31 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 73
+[22-Jul-2020 13:33:30 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 73
+[22-Jul-2020 13:36:13 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 73
+[22-Jul-2020 13:36:21 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 73
+[22-Jul-2020 13:39:35 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 77
+[22-Jul-2020 13:41:13 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 77
+[22-Jul-2020 13:41:13 America/Bogota] PHP Notice:  Undefined variable: cliente in /home/carroc/public_html/yp/reporteRecaudo.php on line 87
+[22-Jul-2020 13:41:13 America/Bogota] PHP Notice:  Undefined variable: valor in /home/carroc/public_html/yp/reporteRecaudo.php on line 88
+[22-Jul-2020 13:42:16 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 77
+[22-Jul-2020 13:43:17 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 77
+[22-Jul-2020 13:46:00 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 77
+[22-Jul-2020 14:03:28 America/Bogota] PHP Notice:  Undefined variable: sql2 in /home/carroc/public_html/yp/reporteRecaudo.php on line 59
+[22-Jul-2020 14:03:28 America/Bogota] PHP Warning:  mysqli_query(): Empty query in /home/carroc/public_html/yp/reporteRecaudo.php on line 59
+[22-Jul-2020 14:03:28 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 14:03:28 America/Bogota] PHP Notice:  Undefined index: fecha in /home/carroc/public_html/yp/reporteRecaudo.php on line 78
+[22-Jul-2020 14:03:28 America/Bogota] PHP Notice:  Undefined index: cliente in /home/carroc/public_html/yp/reporteRecaudo.php on line 79
+[22-Jul-2020 14:03:28 America/Bogota] PHP Notice:  Undefined index: valor in /home/carroc/public_html/yp/reporteRecaudo.php on line 80
+[22-Jul-2020 14:04:28 America/Bogota] PHP Notice:  Undefined variable: sql2 in /home/carroc/public_html/yp/reporteRecaudo.php on line 59
+[22-Jul-2020 14:04:28 America/Bogota] PHP Warning:  mysqli_query(): Empty query in /home/carroc/public_html/yp/reporteRecaudo.php on line 59
+[22-Jul-2020 14:04:28 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 14:04:28 America/Bogota] PHP Notice:  Undefined index: fecha in /home/carroc/public_html/yp/reporteRecaudo.php on line 78
+[22-Jul-2020 14:04:28 America/Bogota] PHP Notice:  Undefined index: cliente in /home/carroc/public_html/yp/reporteRecaudo.php on line 79
+[22-Jul-2020 14:04:28 America/Bogota] PHP Notice:  Undefined index: valor in /home/carroc/public_html/yp/reporteRecaudo.php on line 80
+[22-Jul-2020 14:04:39 America/Bogota] PHP Notice:  Undefined variable: sql2 in /home/carroc/public_html/yp/reporteRecaudo.php on line 59
+[22-Jul-2020 14:04:39 America/Bogota] PHP Warning:  mysqli_query(): Empty query in /home/carroc/public_html/yp/reporteRecaudo.php on line 59
+[22-Jul-2020 14:04:39 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 14:04:39 America/Bogota] PHP Notice:  Undefined index: fecha in /home/carroc/public_html/yp/reporteRecaudo.php on line 78
+[22-Jul-2020 14:04:39 America/Bogota] PHP Notice:  Undefined index: cliente in /home/carroc/public_html/yp/reporteRecaudo.php on line 79
+[22-Jul-2020 14:04:39 America/Bogota] PHP Notice:  Undefined index: valor in /home/carroc/public_html/yp/reporteRecaudo.php on line 80
+[22-Jul-2020 14:35:27 America/Bogota] PHP Notice:  Undefined variable: sql in /home/carroc/public_html/yp/reporteRecaudo.php on line 43
+[22-Jul-2020 14:35:27 America/Bogota] PHP Warning:  mysqli_query(): Empty query in /home/carroc/public_html/yp/reporteRecaudo.php on line 43
+[22-Jul-2020 14:35:27 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 62
+[22-Jul-2020 14:37:12 America/Bogota] PHP Notice:  Undefined variable: sql in /home/carroc/public_html/yp/reporteRecaudo.php on line 43
+[22-Jul-2020 14:37:12 America/Bogota] PHP Warning:  mysqli_query(): Empty query in /home/carroc/public_html/yp/reporteRecaudo.php on line 43
+[22-Jul-2020 14:37:12 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 62
+[22-Jul-2020 14:45:17 America/Bogota] PHP Notice:  Undefined variable: respuesta in /home/carroc/public_html/yp/reporteRecaudo.php on line 69
+[22-Jul-2020 14:45:17 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 69
+[22-Jul-2020 14:45:20 America/Bogota] PHP Notice:  Undefined variable: respuesta in /home/carroc/public_html/yp/reporteRecaudo.php on line 69
+[22-Jul-2020 14:45:20 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 69
+[22-Jul-2020 14:45:59 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 69
+[22-Jul-2020 14:49:37 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 122
+[22-Jul-2020 14:51:16 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 122
+[22-Jul-2020 14:51:24 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 122
+[22-Jul-2020 14:51:32 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 122
+[22-Jul-2020 14:53:00 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 122
+[22-Jul-2020 14:59:22 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 122
+[22-Jul-2020 15:35:58 America/Bogota] PHP Notice:  Undefined variable: conexionAux in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:35:58 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:35:58 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 32
+[22-Jul-2020 15:35:58 America/Bogota] PHP Notice:  Undefined variable: idRecaudador in /home/carroc/public_html/yp/reporteRecaudo.php on line 39
+[22-Jul-2020 15:35:58 America/Bogota] PHP Notice:  Undefined variable: nombreRecaudador in /home/carroc/public_html/yp/reporteRecaudo.php on line 39
+[22-Jul-2020 15:38:04 America/Bogota] PHP Notice:  Undefined variable: conexionAux in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:38:04 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:38:04 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 32
+[22-Jul-2020 15:38:10 America/Bogota] PHP Notice:  Undefined variable: conexionAux in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:38:10 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:38:10 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 32
+[22-Jul-2020 15:39:21 America/Bogota] PHP Notice:  Undefined variable: conexionAux in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:39:21 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:39:21 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 32
+[22-Jul-2020 15:40:08 America/Bogota] PHP Notice:  Undefined variable: conexionAux in /home/carroc/public_html/yp/reporteRecaudo.php on line 26
+[22-Jul-2020 15:40:08 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 26
+[22-Jul-2020 15:40:08 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:41:08 America/Bogota] PHP Notice:  Undefined variable: conexionAux in /home/carroc/public_html/yp/reporteRecaudo.php on line 26
+[22-Jul-2020 15:41:08 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 26
+[22-Jul-2020 15:41:08 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:41:11 America/Bogota] PHP Notice:  Undefined variable: conexionAux in /home/carroc/public_html/yp/reporteRecaudo.php on line 26
+[22-Jul-2020 15:41:11 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 26
+[22-Jul-2020 15:41:11 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carroc/public_html/yp/reporteRecaudo.php on line 29
+[22-Jul-2020 15:52:58 America/Bogota] PHP Notice:  Undefined variable: usu in /home/carroc/public_html/yp/reporteRecaudo.php on line 68
+[22-Jul-2020 15:52:58 America/Bogota] PHP Notice:  Undefined variable: usu in /home/carroc/public_html/yp/reporteRecaudo.php on line 73
+[22-Jul-2020 15:52:58 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 95
+[22-Jul-2020 15:53:14 America/Bogota] PHP Notice:  Undefined variable: usu in /home/carroc/public_html/yp/reporteRecaudo.php on line 68
+[22-Jul-2020 15:53:14 America/Bogota] PHP Notice:  Undefined variable: usu in /home/carroc/public_html/yp/reporteRecaudo.php on line 73
+[22-Jul-2020 15:53:14 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/reporteRecaudo.php on line 95
+[22-Jul-2020 16:21:13 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:21:13 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 16:21:20 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:21:20 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 16:22:59 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:22:59 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 16:23:02 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:23:02 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 16:23:04 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:23:04 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 16:23:07 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:23:07 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 16:23:10 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:23:10 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 16:23:12 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 71
+[22-Jul-2020 16:23:12 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/reporteRecaudo.php on line 125
+[22-Jul-2020 17:34:27 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[22-Jul-2020 18:13:16 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[22-Jul-2020 19:18:51 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[22-Jul-2020 19:59:39 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[24-Jul-2020 08:53:50 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[24-Jul-2020 14:02:28 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[24-Jul-2020 14:23:10 America/Bogota] PHP Notice:  Undefined variable: estado1 in /home/carroc/public_html/yp/listarClientes.php on line 78
+[24-Jul-2020 15:39:21 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[24-Jul-2020 15:41:05 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:41:06 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:42:18 America/Bogota] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:42:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function CRYPT_SALT_LENGTH() in /home/carroc/public_html/yp/uno.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:44:46 America/Bogota] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:49:10 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:55:54 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:55:57 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:55:59 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:01 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:02 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:04 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:07 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:08 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:09 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:12 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:13 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 15:56:38 America/Bogota] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/carroc/public_html/yp/uno.php on line 12
+[24-Jul-2020 16:16:38 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:17:36 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:17:48 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:17:57 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:18:30 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:18:32 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:20:03 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:20:05 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:20:07 America/Bogota] PHP Warning:  crypt() expects at least 1 parameter, 0 given in /home/carroc/public_html/yp/uno.php on line 13
+[24-Jul-2020 16:29:04 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[24-Jul-2020 16:29:08 America/Bogota] PHP Notice:  Undefined index: login_user_sys in /home/carroc/public_html/yp/session.php on line 8
+[29-Jul-2020 08:42:36 America/Bogota] PHP Notice:  Undefined variable: Pendientes in /home/carroc/public_html/yp/dos.php on line 6
+[29-Jul-2020 08:58:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/carroc/public_html/yp/verCliente.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/carroc/public_html/yp/verCliente.php on line 48
+[29-Jul-2020 09:00:53 America/Bogota] PHP Warning:  number_format() expects parameter 2 to be integer, string given in /home/carroc/public_html/yp/verCliente.php on line 48
+[31-Jul-2020 16:21:41 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/login.php on line 18
+[31-Jul-2020 16:21:57 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/carroc/public_html/yp/login.php on line 18
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/verUsuario.php on line 28
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/verUsuario.php on line 29
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/verUsuario.php on line 30
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/verUsuario.php on line 31
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/verUsuario.php on line 32
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/verUsuario.php on line 33
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:41 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:43 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:44 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:44 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:44 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:45 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:48 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 12
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 13
+[16-Apr-2021 10:39:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/carroc/public_html/yp/session.php on line 14
