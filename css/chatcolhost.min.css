@@ -1,0 +1,191 @@
+.share .close, .close {
+  width: 20px;
+  height: 20px;
+  z-index: 3;
+  color: white;
+  border-radius: 50%;
+  background-color: #00243d;
+  cursor: pointer;
+  font-size: .9em;
+  transition: 200ms opacity 400ms;
+}
+
+.share {
+  position: relative;
+  text-align: left;
+}
+.share .tooltip {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  padding: 10px;
+  box-shadow: 0 8px 13px rgba(0, 0, 0, 0.36), 0 0 0 1px rgba(0, 0, 0, 0.06);
+/*  background-color:#42d692; */
+  border-bottom: 2px solid #00243d;
+  border-radius: 3px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 200ms ease-in-out, visibility 0ms;
+  /*	transform: rotateX(-80deg) rotateY(0deg) rotateZ(-19deg) scale(0.60) translateY(53px);*/
+  transform-origin: bottom center;
+}
+.share .tooltip:before, .share .tooltip:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  left: 30px;
+  bottom: -28px;
+  z-index: 3;
+  border: solid 15px transparent;
+/*  border-top-color: #42d692;*/
+  right: auto;
+}
+.share .tooltip:after {
+  bottom: -31px;
+  z-index: 2;
+  border-top-color: #00243d;
+}
+.show.share .tooltip {
+  display: block;
+  visibility: visible;
+  transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1);
+  animation: wobble 700ms;
+  opacity: 1;
+}
+.share .close {
+  text-align: center;
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.share {
+  list-style: none;
+  display: inline-block;
+}
+.share.show .footer-nav-link {
+  background-color: rgba(180, 181, 183, 0.5);
+}
+.share .tooltip {
+  padding: 0;
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+.share li {
+  list-style: none;
+  display: block;
+  width: 100%;
+}
+.share li a {
+  display: block;
+  width: 100%;
+  padding: 25px 25px;
+  font-size: .75em;
+  box-sizing: border-box;
+}
+.share li a:hover {
+text-decoration:none;
+}
+
+.close {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.share {
+  list-style: none;
+  display: inline-block;
+}
+.share.show .footer-nav-link {
+  background-color: rgba(0, 36, 61, 0.5);
+}
+.share li {
+  list-style: none;
+  display: block;
+  width: 100%;
+}
+.share li a {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding: 15px 25px;
+  padding-left: 50px;
+}
+.share li a:hover {
+  background-color: rgba(180, 181, 183, 0.5);
+}
+
+@keyframes wobble {
+  0% {
+    transform: scale(0) rotate(-54deg) translatey(40px);
+  }
+  45% {
+    transform: scale(1.1) rotate(20deg) translatey(0px);
+  }
+  60% {
+    transform: scale(1) rotate(-15deg) translatey(0px);
+  }
+  77% {
+    transform: scale(1) rotate(10deg) translatey(0px);
+  }
+  100% {
+    transform: translatey(0);
+  }
+}
+.share a:after {
+  display: block;
+  position: absolute;
+  left: 25px;
+  top: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  width: 7px;
+  height: 15px;
+  background-size: 100%;
+  content: '';
+  background-repeat: no-repeat;
+}
+
+.chatSocial{
+bottom:0;
+right:10px;
+width:250px;
+border-radius:5px 5px 0 0;
+position:fixed;
+text-align:left !important;
+z-index:2147483638;
+cursor:pointer;
+-webkit-animation-duration:1s;
+animation-duration:1s;
+-webkit-animation-fill-mode: both;
+animation-fill-mode: both;
+}
+
+.chatSocial-header{
+border-radius:5px 5px 0 0;
+min-height:32px;
+}
+
+.chatSocial-header-text{
+height:auto;
+margin-top:1px;
+overflow:hidden;
+float:left;
+font-weight:bold;
+margin-left:55px;
+}
+
+
+.chatSocial-avatar{
+height:40px;
+width:40px;
+top:-11px;
+left:5px;
+border-radius:3px;
+overflow:hidden;
+position:absolute;
+}
