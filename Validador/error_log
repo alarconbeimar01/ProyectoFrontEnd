@@ -1,0 +1,38 @@
+[20-Jul-2020 10:23:35 America/Bogota] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[20-Jul-2020 10:23:35 America/Bogota] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[20-Jul-2020 11:02:26 America/Bogota] PHP Fatal error:  Can't use function return value in write context in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 4
+[20-Jul-2020 11:10:29 America/Bogota] PHP Notice:  Undefined index: 5f4dcc3b5aa765d61d8327deb882cf99 in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 4
+[20-Jul-2020 11:12:13 America/Bogota] PHP Notice:  Undefined index: md5(password) in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 4
+[20-Jul-2020 11:16:26 America/Bogota] PHP Fatal error:  Can't use function return value in write context in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 4
+[20-Jul-2020 11:18:03 America/Bogota] PHP Notice:  Undefined index: 5f4dcc3b5aa765d61d8327deb882cf99 in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 4
+[20-Jul-2020 11:18:52 America/Bogota] PHP Notice:  Undefined index: md5(password) in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 4
+[20-Jul-2020 11:23:41 America/Bogota] PHP Notice:  Array to string conversion in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 10
+[20-Jul-2020 13:56:04 America/Bogota] PHP Warning:  require(../Modelo/conexionv.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 31
+[20-Jul-2020 13:56:04 America/Bogota] PHP Fatal error:  require(): Failed opening required '../Modelo/conexionv.php' (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/registrarUsuarioV.php on line 31
+[20-Jul-2020 15:14:44 America/Bogota] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/actualizarUsuario.php on line 2
+[20-Jul-2020 15:14:44 America/Bogota] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/actualizarUsuario.php on line 2
+[20-Jul-2020 15:14:44 America/Bogota] PHP Notice:  Undefined index: <? echo $identificacion ?> in /home/carroc/public_html/yp/Validador/actualizarUsuario.php on line 5
+[20-Jul-2020 15:15:49 America/Bogota] PHP Notice:  Undefined index: <? echo $identificacion ?> in /home/carroc/public_html/yp/Validador/actualizarUsuario.php on line 2
+[21-Jul-2020 07:38:47 America/Bogota] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 07:38:47 America/Bogota] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 08:56:06 America/Bogota] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 08:56:06 America/Bogota] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 09:06:36 America/Bogota] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 09:06:36 America/Bogota] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 09:13:05 America/Bogota] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 09:13:05 America/Bogota] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 09:18:18 America/Bogota] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 09:18:18 America/Bogota] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/php:/opt/alt/php72/usr/share/pear') in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 2
+[21-Jul-2020 09:38:08 America/Bogota] PHP Notice:  Undefined index: identificacion in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 5
+[21-Jul-2020 09:38:08 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 6
+[21-Jul-2020 09:38:08 America/Bogota] PHP Notice:  Undefined index: ns in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 7
+[21-Jul-2020 09:38:08 America/Bogota] PHP Notice:  Undefined index: ip in /home/carroc/public_html/yp/Validador/validarInstalar.php on line 8
+[21-Jul-2020 15:40:23 America/Bogota] PHP Notice:  Undefined index: cobro in /home/carroc/public_html/yp/Validador/recaudarV.php on line 5
+[21-Jul-2020 15:40:23 America/Bogota] PHP Notice:  Undefined index: usuario in /home/carroc/public_html/yp/Validador/recaudarV.php on line 6
+[22-Jul-2020 10:23:13 America/Bogota] PHP Notice:  Undefined index: ref in /home/carroc/public_html/yp/Validador/actualizarPlan.php on line 2
+[22-Jul-2020 10:23:13 America/Bogota] PHP Notice:  Undefined variable: ACTUALIZARPLAN in /home/carroc/public_html/yp/Validador/actualizarPlan.php on line 11
+[24-Jul-2020 10:17:00 America/Bogota] PHP Notice:  Undefined index: identificacion in /home/carroc/public_html/yp/Validador/validarSuspender.php on line 5
+[24-Jul-2020 10:24:00 America/Bogota] PHP Notice:  Undefined index: identificacion in /home/carroc/public_html/yp/Validador/validarSuspender.php on line 5
+[24-Jul-2020 10:25:48 America/Bogota] PHP Notice:  Undefined index: identificacion in /home/carroc/public_html/yp/Validador/validarSuspender.php on line 5
+[24-Jul-2020 10:26:05 America/Bogota] PHP Notice:  Undefined index: identificacion in /home/carroc/public_html/yp/Validador/validarSuspender.php on line 5
+[24-Jul-2020 10:27:15 America/Bogota] PHP Notice:  Undefined index: identificacion in /home/carroc/public_html/yp/Validador/validarSuspender.php on line 5
