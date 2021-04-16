@@ -1,0 +1,1 @@
+[19-Jul-2020 09:54:13 America/Bogota] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'carroc_alarconbeimar'@'localhost' to database 'carroc_yolix' in /home/carroc/public_html/yp/Modelo/conectaDb.php on line 7
